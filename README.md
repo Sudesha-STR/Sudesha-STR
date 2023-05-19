@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋  I am a third Food Processing Engineering student from NIT, Rourkela.✨
+- 👋  I am a third year Food Processing Engineering student from NIT, Rourkela.✨
 - 👀 Interest? Exploration but love procrastinating sometimes.
 - 🌱 I'm a rookie to coding but I'm loving open source but feeling so bad that I got to know I love it very late!
 - ⛅ Cloud enthusiast (Grinding AWS).
