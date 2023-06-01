@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I'm a rookie to coding but I'm loving open source but feeling so bad that I got to know I love it very late!
 - ☁️ Cloud enthusiast (Grinding AWS).
 - 📫 Contact me: sudeshaiitm@gmail.com
-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Sudesha-STR&theme=highcontrast&show_icons=true&count_private=true)
+- 
